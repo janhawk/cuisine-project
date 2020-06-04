@@ -1,0 +1,70 @@
+/*font-family: 'Oswald', sans-serif;
+font-family: 'Courgette', cursive;
+*/ 
+
+header {
+    background-image: url("../img/header1.jpg"); /*already filtered header */
+    background-position: center;
+    background-repeat: none;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    background-size: cover;
+ 
+   
+}
+nav {
+    border-bottom: 1px grey solid;
+    position: fixed; 
+   
+
+}
+
+.cuizine {
+    font-family: 'Courgette', cursive;
+}
+.headerbackground {
+height: 70px;
+margin-top: 50px;
+}
+.cuisine {
+    padding-bottom: 300px;
+    font-family: 'Courgette', cursive;
+    
+}
+
+
+iframe {
+    margin: 20px;
+ 
+}
+footer {
+    background-color: black;
+    
+}
+footer ul li {
+    list-style-type: none;
+
+    
+}
+
+footer ul li a {
+    text-decoration: underline;
+    color: white;
+}
+body {
+    *font-family: 'Oswald', sans-serif;
+}
+    
+.courgette {
+    font-family: 'Courgette', cursive;
+}
+footer h3 {
+    color: white;
+}
+footer h5 {
+    color: white;
+}
+.black {
+    background-color: black;
+}
